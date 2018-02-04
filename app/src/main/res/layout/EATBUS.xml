@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.randypraginara.randypraginara_1106130167_modul1.Main3Activity">
+
+
+    <TextView
+        android:id="@+id/makanmalam1.2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Makan Malam"
+        android:textColor="@color/colorPrimary"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="98dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/eatbus11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EatBus"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+    <TextView
+        android:id="@+id/menu1.2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:textColor="@color/colorAccent"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="170dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <TextView
+        android:id="@+id/nasiuduk12"
+        android:layout_width="182dp"
+        android:layout_height="30dp"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <TextView
+        android:id="@+id/porsi1.2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Porsi"
+        android:textColor="@color/colorAccent"
+        android:textColorHighlight="@color/colorAccent"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="171dp"
+        tools:layout_editor_absoluteY="243dp" />
+
+    <TextView
+        android:id="@+id/porsi121"
+        android:layout_width="169dp"
+        android:layout_height="36dp"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+    <TextView
+        android:id="@+id/harga1.2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Harga"
+        android:textColor="@color/colorAccent"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="346dp" />
+
+    <TextView
+        android:id="@+id/harga121"
+        android:layout_width="159dp"
+        android:layout_height="32dp"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="385dp" />
+
+    <RelativeLayout
+        android:layout_width="370dp"
+        android:layout_height="500dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
+
+
